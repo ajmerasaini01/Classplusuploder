@@ -1,0 +1,11 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+requests
+pyromod==3.1.6
+yt-dlp
+aiohttp
+aiofiles
+ffmpeg
+ffprobe
+asyncio
+humanize
