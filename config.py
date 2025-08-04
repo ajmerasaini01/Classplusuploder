@@ -1,6 +1,6 @@
 import os
 
-api_id = int(os.environ.get("api_id"))
+api_id = int(os.environ.get("27660379"))
 api_hash = os.environ.get("api_hash")
 bot_token = os.environ.get("bot_token")
 
